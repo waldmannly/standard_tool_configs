@@ -1,0 +1,38 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+
+    "editor.rulers": [
+        
+        {
+            "column": 80,
+            "color": "#13131342"
+        },
+        {
+            "column": 120,
+            "color": "#6464648e"
+        },
+    ],
+
+    "[python]": {
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            {
+                "column": 80,
+                "color": "#13131342"
+            },
+            {
+                "column": 120,
+                "color": "#6464648e"
+            },
+        ]
+    },
+    "[git-commit]": {
+        "editor.rulers": [
+            {
+                "column": 50,
+                "color": "#6464648e"
+            },
+        ]
+    },
+}

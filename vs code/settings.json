@@ -1,9 +1,9 @@
 {
     "editor.tabSize": 2,
     "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
 
     "editor.rulers": [
-        
         {
             "column": 80,
             "color": "#13131342"
